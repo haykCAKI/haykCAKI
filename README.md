@@ -44,7 +44,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/herick-kumata/) <br>
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://br.pinterest.com/herickkumata/) 
 
-# 🔥 Soft Skills:
+# 🔥 Hard Skills:
 
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
