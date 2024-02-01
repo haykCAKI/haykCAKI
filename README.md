@@ -18,11 +18,20 @@
   - 💬 I am 22 years old, currently living in Brazil. I have intermediate in English and have experience with create basic API's, Login register, Data Analisys.
       - I started my studies during the Pandemic in 2021, where I had my first contact with the area of programming. Nowadays, I'm looking for new ways to improve the way I study programming and where I can apply them.
     
-  - ⚡
+  - ⚡I really like playing fps and RPG games; practice physical activities, such as gym and muai thai; traveling would be my first hobby if I had the money XD and I love studying while listening to lofi music. I'm sure this helps a lot to identify who Herick is.
+    
       - Good interpersonal and team communication, developed during projects delivered in college subjects;
       - Ability to adapt, learn quickly  and resilient in dynamic environments learned during the group project on logical reasoning;
       - A person who was always positive and had a lot of empathy, he owed the volunteer work done within Seicho-no-ie;
       - Always helping people when he has knowledge on the subject, developed during the 1st semester at college until the 3rd semester (where I am currently).
+      
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=v9ru7sbp9ghdh0tv180i8ljl0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" width="300" />
+  </a>
+</p>
+
+
 </details>
 
 <!-- GIF -->
