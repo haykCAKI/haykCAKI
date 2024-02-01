@@ -19,11 +19,7 @@
       - I started my studies during the Pandemic in 2021, where I had my first contact with the area of programming. Nowadays, I'm looking for new ways to improve the way I study programming and where I can apply them.
     
   - ⚡I really like playing fps and RPG games; practice physical activities, such as gym and muai thai; traveling would be my first hobby if I had the money XD and I love studying while listening to lofi music. I'm sure this helps a lot to identify who Herick is.
-    
-      - Good interpersonal and team communication, developed during projects delivered in college subjects;
-      - Ability to adapt, learn quickly  and resilient in dynamic environments learned during the group project on logical reasoning;
-      - A person who was always positive and had a lot of empathy, he owed the volunteer work done within Seicho-no-ie;
-      - Always helping people when he has knowledge on the subject, developed during the 1st semester at college until the 3rd semester (where I am currently).
+      - I am an enthusiast and passionate about technology in the IT area. Good interpersonal and team communication, developed during projects delivered in college subjects; Ability to adapt and learn quickly in dynamic environments; Empathy to deal effectively and patiently with moments of stress; Thinking positively in situations of discouragement most of the time and looking for better ways to deal with it; and resilience seeking new ways of understanding and methods programming, studying and communicating.
       
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -60,12 +56,14 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </div>
 
   # Portfolio:
