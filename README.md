@@ -55,7 +55,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
      <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   </div>
@@ -65,12 +64,6 @@
     <h3>Libraries</h3>
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </div>
-
-  # Portfolio:
-- [Python - simple expense tracker to organize amounts and show the month that had the most expenses](https://github.com/haykCAKI/django)
-- [Python - simple calculator using python and django](https://github.com/haykCAKI/django-calculator)
-- [PHP - simple blog made with the aim of showing the connection between FE and BE](https://github.com/haykCAKI/university_project_PHP)
-
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haykCAKI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
