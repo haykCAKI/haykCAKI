@@ -8,7 +8,7 @@
   Hi 👋, I'm Herick Kumata! A passionate IT student from Brazil.
 
   - 🌱 I’m currently studying Analisys and Development Sistems at Pontifica University Catholic.
-  - 🔭 I'm looking for first opportunity with an internship or a job like developer junior on FE or BE, and SQA in Cypress.
+  - 🔭 I'm looking for first opportunity with an internship or a job like developer junior on FE or BE.
 </p>
 
 <!-- Dropdown -->
