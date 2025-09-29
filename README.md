@@ -65,17 +65,6 @@ Sou estudante de ADS e atuo em projetos de **engenharia de dados** e **ciência 
 - **Geração de testes**: crio casos de borda a partir de schemas e contratos
 - **Documentação viva**: resumo PRs, diffs e decisões técnicas
 - **Performance**: vectorização em Pandas, quando migrar para Polars, e offload de agregações pesadas para **SQL no DuckDB**
-
----
-
-## 📦 Projetos em destaque
-- **etl-duckdb-template** — Template ETL com validações e janelas analíticas  
-- **pandas-vs-polars-bench** — Benchmarks e guias de migração  
-- **dbt-core-starter** — Modelo estrela + macros e snapshots  
-- **fastapi-analytics-api** — API para servir métricas e relatórios  
-
-> Dica: adicione **GIFs curtos** (screen-recording) demonstrando um pipeline rodando — fica top no portfólio!
-
 ---
 
 ## 📊 GitHub Stats
