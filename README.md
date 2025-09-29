@@ -39,7 +39,6 @@ Sou estudante de ADS e atuo em projetos de **engenharia de dados** e **ciência 
 
 ### Bancos e Engines
 <p>
-  <img alt="DuckDB" height="36" src="https://raw.githubusercontent.com/duckdb/duckdb-web/main/images/logo-diamond.svg" />
   <img alt="PostgreSQL" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 </p>
 
