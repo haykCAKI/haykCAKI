@@ -1,132 +1,154 @@
 <!-- ===========================
-   ✅ README STYLE (MasterJudah vibe)
+   ✅ README STYLE — haykCAKI
+   Aesthetic: Benjamin-Solano inspired
    Author: Herick Akio Yoshii Kumata
-   Username: haykCAKI
    =========================== -->
 
+<!-- ══════════════════════════════════════
+     BANNER — Ocean wallpaper header
+══════════════════════════════════════ -->
 <div align="center">
-
-  <!-- Banner / Header -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Herick%20Akio%20Yoshii%20Kumata&fontAlign=50&fontAlignY=38&fontSize=46&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Data%20Science%20(Starter)&descAlign=50&descAlignY=60&animation=fadeIn"
+    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ocean_with_cloud.png"
     alt="banner"
+    width="100%"
   />
+</div>
 
-  <br/>
+&nbsp;
 
-  <!-- Typing effect -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=950&lines=Data+Engineer+%7C+Data+Analyst+%7C+Data+Science+(Starter);Python+%E2%80%A2+SQL+%E2%80%A2+DuckDB+%E2%80%A2+PostgreSQL;ETL%2FELT+%7C+Data+Quality+%7C+Automation+%7C+Analytics;SPED+ECD%2FEFD+%7C+Auditoria+%7C+Relat%C3%B3rios+Financeiros"
-    alt="Typing SVG"
-  />
+<!-- ══════════════════════════════════════
+     SOCIAL BADGES — all black monochrome
+══════════════════════════════════════ -->
+<div align="center">
 
-  <br/><br/>
-
-  <!-- Small badges -->
-  <img src="https://komarev.com/ghpvc/?username=haykCAKI&label=Profile%20Views&color=00ff88&style=flat" alt="views" />
-  <img src="https://img.shields.io/badge/Open%20to-Intern%20%2F%20Junior-00ff88" alt="open-to" />
-  <img src="https://img.shields.io/badge/Location-Brazil-0f172a" alt="location" />
-  <img src="https://img.shields.io/badge/Back%20%26%20Front-Basic-0f172a" alt="basic-stack" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haykCAKI)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haykCAKI)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=Profile+Views&color=000000&style=for-the-badge)](https://github.com/haykCAKI)
 
 </div>
 
-<br/>
+&nbsp;
+
+---
+
+&nbsp;
+
+## *About me*
 
 <div align="center">
   <img
-    alt="finance-hacker"
-    width="360"
-    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
+    alt="data-gif"
+    width="380"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   />
 </div>
 
-<br/>
+&nbsp;
+
+Hello There! ***I'm Herick Akio Yoshii Kumata***, a Data Engineer and AI Engineer focused on building pipelines, automating processes with AI, and extracting insights from complex financial and fiscal data.
+
+&nbsp;
+
+🎓 &nbsp; ***Graduated in Análise e Desenvolvimento de Sistemas (ADS)***  
+🛠️ &nbsp; ***Data Engineer | AI Engineer | Data Analyst***  
+🤖 &nbsp; ***AI automation with Claude (Anthropic) & OpenAI Codex***  
+🐍 &nbsp; ***Strong in Python + SQL + DuckDB + PostgreSQL***  
+📊 &nbsp; ***KPIs, dashboards and financial reporting***  
+☁️ &nbsp; ***Cloud: AWS + Google Cloud | Containers: Docker***  
+🧾 &nbsp; ***Accounting | Audit | Tax | SPED ECD/EFD***  
+🚀 &nbsp; ***Open to roles in Data Engineering & AI Engineering***  
+
+&nbsp;
 
 ---
 
-## 👋 About Me
+&nbsp;
 
-- 🎓 ADS student focused on **Data Engineering + Data Analytics**
-- 🧠 I build **ETL/ELT pipelines**, analytical layers, and tools for decision-making  
-- 🧰 Strong with **Python + SQL + DuckDB / PostgreSQL**
-- 📈 Turning raw data into **financial insights** (KPIs, reports, dashboards)
-- ☁️ Cloud mindset (**Google Cloud**) + containerization (**Docker**)
-- 🤖 AI for **code review, documentation, testing & performance tuning**
-- 🧩 Basic Back-end + Front-end knowledge (enough to ship **end-to-end solutions**)
-
-> 🚀 Looking for opportunities as **Intern / Junior** in Data Engineering / Data Analyst / Data Science (entry).
-
-<br/>
-
----
-
-## 🧠 Languages & Tools (Icons Only)
+## *Technologies*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,linux,docker,gcp,fastapi,nodejs,js" />
+
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Claude](https://img.shields.io/badge/Claude%20%28Anthropic%29-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#)
+
 </div>
 
-<br/>
+&nbsp;
 
 ---
 
-## 💼 What I Work With (Real World)
+&nbsp;
 
-- ✅ Data Engineering: ingestion → cleaning → validation → modeling → export  
-- ✅ Data Analytics: metrics, KPIs, dashboards and executive summaries  
-- ✅ Automation: scalable scripts, logs, reproducibility, pipeline stability  
-- ✅ Finance & Audit: reports, reconciliations and accounting structure modeling  
-- ✅ SPED: contact with ECD/EFD datasets and schema-driven parsing  
+## *What I Build*
 
-<br/>
+**🔄 Data Engineering**
 
----
+- Ingestion → Cleaning → Validation → Modeling → Export
+- Multi-layer pipelines (Bronze / Silver / Gold)
+- Reproducible and monitored ETL/ELT scripts
+- DuckDB for local analytics, PostgreSQL for production
+- Containerized workflows with Docker + cloud deployment (AWS / GCP)
 
-## 📊 GitHub Stats
+**🤖 AI Engineering & Automation**
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=haykCAKI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykCAKI&theme=dark&hide_border=true&layout=compact"
-    alt="langs"
-  />
-</p>
+- Process automation using Claude (Anthropic) and OpenAI Codex
+- AI-powered agents for document parsing, reporting and data extraction
+- Prompt engineering and LLM integration into production pipelines
+- Code review, documentation generation and testing via AI tooling
+- End-to-end automated workflows connecting APIs, databases and AI models
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haykCAKI&theme=dark&hide_border=true"
-    alt="streak"
-  />
-</p>
+**📈 Data Analytics**
 
-<br/>
+- KPIs, metrics and executive summaries
+- Financial dashboards and reconciliation reports
+- Data-driven decision support tools
+- Custom exports for business stakeholders
 
----
+**🧾 Accounting, Audit & Tax**
 
-## 📈 Activity Graph
+- SPED ECD/EFD dataset parsing and schema-driven processing
+- Accounting structure modeling and chart of accounts automation
+- Automated financial reconciliation and audit trail scripts
+- Tax computation pipelines and compliance-ready reporting
+- Fiscal data extraction and transformation for decision-making
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=haykCAKI&theme=react-dark&hide_border=true"
-    alt="activity graph"
-  />
-</p>
-
-<br/>
+&nbsp;
 
 ---
 
-## 🧠 Random Dev Quote
+&nbsp;
 
-<p align="center">
+<!-- ══════════════════════════════════════
+     FOOTER — Ocean wallpaper mirrored
+══════════════════════════════════════ -->
+
+<div align="center">
+
+*"Data is the new oil — but only if you know how to refine it."*
+
+&nbsp;
+
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="quote"
+    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ocean_with_cloud.png"
+    alt="footer"
+    width="100%"
   />
-</p>
+
+</div>
