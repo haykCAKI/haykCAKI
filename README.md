@@ -1,11 +1,5 @@
-<!-- ===========================
-   ✅ README STYLE — haykCAKI
-   Aesthetic: Benjamin-Solano inspired
-   Author: Herick Akio Yoshii Kumata
-   =========================== -->
-
 <!-- ══════════════════════════════════════
-     BANNER — Ocean wallpaper header
+     BANNER
 ══════════════════════════════════════ -->
 <div align="center">
   <img
@@ -17,25 +11,22 @@
 
 &nbsp;
 
-<div align="center">
-  <img
-    src="./preview.gif"
-    alt="preview"
-    width="100%"
-  />
-</div>
-
-&nbsp;
-
 <!-- ══════════════════════════════════════
-     SOCIAL BADGES — all black monochrome
+     HEADER
 ══════════════════════════════════════ -->
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haykCAKI)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haykCAKI)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=Profile+Views&color=000000&style=for-the-badge)](https://github.com/haykCAKI)
+# `herick akio yoshii kumata`
+
+**Data Engineer** · Automação · IA Aplicada · Pipelines
+
+&nbsp;
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haykcaki.github.io/curriculo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herick-kumata/)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herickyk@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=views&color=000000&style=for-the-badge)](https://github.com/haykCAKI)
 
 </div>
 
@@ -45,30 +36,16 @@
 
 &nbsp;
 
-## *About me*
+## `// sobre`
 
-<div align="center">
-  <img
-    alt="data-gif"
-    width="380"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  />
-</div>
-
-&nbsp;
-
-Hello There! ***I'm Herick Akio Yoshii Kumata***, a Data Engineer and AI Engineer focused on building pipelines, automating processes with AI, and extracting insights from complex financial and fiscal data.
-
-&nbsp;
-
-🎓 &nbsp; ***Graduated in Análise e Desenvolvimento de Sistemas (ADS)***  
-🛠️ &nbsp; ***Data Engineer | AI Engineer | Data Analyst***  
-🤖 &nbsp; ***AI automation with Claude (Anthropic) & OpenAI Codex***  
-🐍 &nbsp; ***Strong in Python + SQL + DuckDB + PostgreSQL***  
-📊 &nbsp; ***KPIs, dashboards and financial reporting***  
-☁️ &nbsp; ***Cloud: AWS + Google Cloud | Containers: Docker***  
-🧾 &nbsp; ***Accounting | Audit | Tax | SPED ECD/EFD***  
-🚀 &nbsp; ***Open to roles in Data Engineering & AI Engineering***  
+```
+├── 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — PUCPR
+├── 🏢 Data Engineering & R&D — Taticca Consulting (atual)
+├── 🤖 IA aplicada a rotinas contábeis, fiscais e administrativas
+├── 📊 Pipelines ETL · ECD/EFD · Auditoria · Tax · FCI
+├── 🧪 Pesquisa: Agents, MCPs, modelos de raciocínio
+└── 🚀 Aberto a freelance em software & data engineering (2026)
+```
 
 &nbsp;
 
@@ -76,27 +53,47 @@ Hello There! ***I'm Herick Akio Yoshii Kumata***, a Data Engineer and AI Enginee
 
 &nbsp;
 
-## *Technologies*
+## `// stack`
 
 <div align="center">
+
+**`linguagens`**
 
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#)
+
+**`dados`**
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Claude](https://img.shields.io/badge/Claude%20%28Anthropic%29-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+
+**`aplicações`**
+
 [![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+[![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+
+**`cloud & ia`**
+
+[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+
+**`ferramentas`**
+
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 
 </div>
 
@@ -106,38 +103,42 @@ Hello There! ***I'm Herick Akio Yoshii Kumata***, a Data Engineer and AI Enginee
 
 &nbsp;
 
-## *What I Build*
+## `// o que eu construo`
 
-**🔄 Data Engineering**
+```
+data-engineering/
+├── Pipelines ETL (Python + Colab) para ECD, EFD e NF-e
+├── Detecção de outliers com Scikit-learn para auditoria contábil
+├── Tabelas automatizadas para FCI (Ficha de Conteúdo de Importação)
+├── Exportação de XML via API SIEG (TypeScript + APScheduler)
+└── Extração de dados do ONVIO com Playwright → Excel
 
-- Ingestion → Cleaning → Validation → Modeling → Export
-- Multi-layer pipelines (Bronze / Silver / Gold)
-- Reproducible and monitored ETL/ELT scripts
-- DuckDB for local analytics, PostgreSQL for production
-- Containerized workflows with Docker + cloud deployment (AWS / GCP)
+ai-engineering/
+├── Agents e MCPs para geração de contratos e balancetes
+├── Automação de documentos contábeis com IA
+├── Apresentações interativas em HTML geradas por agentes
+└── P&D: avaliação de novas tecnologias para fiscal/contábil
 
-**🤖 AI Engineering & Automation**
+web-development/
+├── Aplicações e dashboards com React + TypeScript
+├── APIs com FastAPI e Node.js
+└── Blog CMS em PHP + MySQL + Bootstrap (projeto acadêmico)
+```
 
-- Process automation using Claude (Anthropic) and OpenAI Codex
-- AI-powered agents for document parsing, reporting and data extraction
-- Prompt engineering and LLM integration into production pipelines
-- Code review, documentation generation and testing via AI tooling
-- End-to-end automated workflows connecting APIs, databases and AI models
+&nbsp;
 
-**📈 Data Analytics**
+---
 
-- KPIs, metrics and executive summaries
-- Financial dashboards and reconciliation reports
-- Data-driven decision support tools
-- Custom exports for business stakeholders
+&nbsp;
 
-**🧾 Accounting, Audit & Tax**
+## `// trajetória`
 
-- SPED ECD/EFD dataset parsing and schema-driven processing
-- Accounting structure modeling and chart of accounts automation
-- Automated financial reconciliation and audit trail scripts
-- Tax computation pipelines and compliance-ready reporting
-- Fiscal data extraction and transformation for decision-making
+```
+2025/04 ─ atual    Data Engineering & R&D        @ Taticca Consulting
+2024/09 ─ 2024/10  Estágio em Dev (QQTech)       @ Lojas Quero-Quero
+2024    ─ 2025/02  ADS (Tecnólogo)               @ PUCPR
+2023    ─ 2024     Auxiliar de Cozinha Freelancer  @ Pandas Chef
+```
 
 &nbsp;
 
@@ -146,12 +147,33 @@ Hello There! ***I'm Herick Akio Yoshii Kumata***, a Data Engineer and AI Enginee
 &nbsp;
 
 <!-- ══════════════════════════════════════
-     FOOTER — Ocean wallpaper mirrored
+     GITHUB STATS
 ══════════════════════════════════════ -->
 
 <div align="center">
 
-*"Data is the new oil — but only if you know how to refine it."*
+## `// stats`
+
+&nbsp;
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haykCAKI&show_icons=true&theme=dark&bg_color=000000&hide_border=true&icon_color=ffffff&text_color=ffffff&title_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykCAKI&layout=compact&theme=dark&bg_color=000000&hide_border=true&text_color=ffffff&title_color=ffffff" />
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<!-- ══════════════════════════════════════
+     FOOTER
+══════════════════════════════════════ -->
+
+<div align="center">
+
+*"Organização é o que torna automação útil."*
 
 &nbsp;
 
