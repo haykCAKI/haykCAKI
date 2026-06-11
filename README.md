@@ -157,17 +157,6 @@ web-development/
      github-readme-stats configurada com um GitHub PAT.
 ══════════════════════════════════════ -->
 
-<div align="center">
-
-## `// stats`
-
-&nbsp;
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haykCAKI&show_icons=true&theme=dark&bg_color=000000&hide_border=true&icon_color=ffffff&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykCAKI&layout=compact&theme=dark&bg_color=000000&hide_border=true&text_color=ffffff&title_color=ffffff&langs_count=8&count_private=true" />
-
-</div>
-
 &nbsp;
 
 ---
