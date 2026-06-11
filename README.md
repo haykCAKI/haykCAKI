@@ -23,7 +23,7 @@
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haykcaki.github.io/curriculo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curriculo.herickyk.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herick-kumata/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herickyk@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=views&color=000000&style=for-the-badge)](https://github.com/haykCAKI)
