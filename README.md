@@ -3,7 +3,7 @@
 ══════════════════════════════════════ -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ocean_with_cloud.png"
+    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_tokyonight_skyline.jpg"
     alt="banner"
     width="100%"
   />
@@ -17,16 +17,14 @@
 
 <div align="center">
 
-# `herick akio yoshii kumata`
-
-**Data Engineer** · Automação · IA Aplicada · Pipelines
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duplicateSpeed=1&pause=1000&color=C9484F&center=true&vCenter=true&width=560&height=60&lines=herick+akio+yoshii+kumata;software+engineer;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2" alt="typing-svg" />
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curriculo.herickyk.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herick-kumata/)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herickyk@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=views&color=000000&style=for-the-badge)](https://github.com/haykCAKI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=googlechrome&logoColor=C9484F)](https://curriculo.herickyk.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=C9484F)](https://linkedin.com/in/herick-kumata/)
+[![Gmail](https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=C9484F)](mailto:herickyk@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=haykCAKI&label=views&color=141414&style=for-the-badge)](https://github.com/haykCAKI)
 
 </div>
 
@@ -36,16 +34,32 @@
 
 &nbsp;
 
-## `// sobre`
+## `01` 概要 · sobre
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+educação:    Tecnólogo em ADS — PUCPR
+atual:       Software & Data Engineering @ Taticca Consulting
+arquitetura: system design · database design · sistemas robustos
+fiscal:      NF-e · NFS-e · CT-e · FCI · Transfer Pricing
+IA:          agentes multi-modelo, grafos de conhecimento, memória persistente
+pesquisa:    agents · MCPs · modelos de raciocínio
+status:      🔴 aberto a freelance em software engineering — 2026
 ```
-├── 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — PUCPR
-├── 🏢 Data Engineering & R&D — Taticca Consulting (atual)
-├── 🤖 IA aplicada a rotinas contábeis, fiscais e administrativas
-├── 📊 Pipelines ETL · ECD/EFD · Auditoria · Tax · FCI
-├── 🧪 Pesquisa: Agents, MCPs, modelos de raciocínio
-└── 🚀 Aberto a freelance em software & data engineering (2026)
-```
+
+</td>
+<td width="40%" valign="top">
+
+> *"Organização é o que torna<br>automação útil."*
+>
+> <sub>「整理整頓は自動化を活かす」</sub>
+
+</td>
+</tr>
+</table>
 
 &nbsp;
 
@@ -53,50 +67,54 @@
 
 &nbsp;
 
-## `// stack`
+## `02` 技術 · stack
 
 <div align="center">
 
-**`linguagens`**
+<sub>linguagens</sub><br/>
+<img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/SQL-141414?style=for-the-badge&logo=postgresql&logoColor=C9484F" />
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#)
+<br/><br/>
 
-**`dados`**
+<sub>backend & apps</sub><br/>
+<img src="https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Playwright-141414?style=for-the-badge&logo=playwright&logoColor=C9484F" />
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org)
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+<br/><br/>
 
-**`aplicações`**
+<sub>dados</sub><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Oracle-141414?style=for-the-badge&logo=oracle&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/SQLite-141414?style=for-the-badge&logo=sqlite&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/DuckDB-141414?style=for-the-badge&logo=duckdb&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Scikit--learn-141414?style=for-the-badge&logo=scikitlearn&logoColor=C9484F" />
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
-[![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+<br/><br/>
 
-**`cloud & ia`**
+<sub>cloud & ia</sub><br/>
+<img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonwebservices&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Google_Cloud-141414?style=for-the-badge&logo=googlecloud&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Cloudflare-141414?style=for-the-badge&logo=cloudflare&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Render-141414?style=for-the-badge&logo=render&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Claude-141414?style=for-the-badge&logo=anthropic&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/OpenAI-141414?style=for-the-badge&logo=openai&logoColor=C9484F" />
 
-[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-[![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+<br/><br/>
 
-**`ferramentas`**
-
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+<sub>ferramentas</sub><br/>
+<img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=C9484F" />
+<img src="https://img.shields.io/badge/Supabase-141414?style=for-the-badge&logo=supabase&logoColor=C9484F" />
 
 </div>
 
@@ -106,27 +124,57 @@
 
 &nbsp;
 
-## `// o que eu construo`
+## `03` 制作 · o que eu construo
 
-```
-data-engineering/
-├── Pipelines ETL (Python + Colab) para ECD, EFD e NF-e
-├── Detecção de outliers com Scikit-learn para auditoria contábil
-├── Tabelas automatizadas para FCI (Ficha de Conteúdo de Importação)
-├── Exportação de XML via API SIEG (TypeScript + APScheduler)
-└── Extração de dados do ONVIO com Playwright → Excel
+<table>
+<tr>
+<td width="50%" valign="top">
 
-ai-engineering/
-├── Agents e MCPs para geração de contratos e balancetes
-├── Automação de documentos contábeis com IA
-├── Apresentações interativas em HTML geradas por agentes
-└── P&D: avaliação de novas tecnologias para fiscal/contábil
+**`backend & architecture`**
 
-web-development/
-├── Aplicações e dashboards com React + TypeScript
-├── APIs com FastAPI e Node.js
-└── Blog CMS em PHP + MySQL + Bootstrap (projeto acadêmico)
-```
+- APIs e serviços com FastAPI e Node.js
+- System design e arquitetura de sistemas robustos
+- Modelagem de bancos de dados de alta escala
+- Agents e MCPs para contratos e balancetes
+- Automação documental com IA em produção
+
+</td>
+<td width="50%" valign="top">
+
+**`fiscal & data engineering`**
+
+- Integrações de NF-e, NFS-e e CT-e
+- Pipelines ETL (Python + Colab) para ECD e EFD
+- Transfer Pricing — ETL de preços de transferência
+- Automação de FCI (Ficha de Conteúdo de Importação)
+- Detecção de outliers para auditoria contábil
+- Extração ONVIO com Playwright → Excel
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`ai platform`**
+
+- Motor de memória persistente e grafo de conhecimento
+- Orquestração de múltiplos agentes de IA (Claude, Codex)
+- Sincronização de contexto entre máquinas (Mac ↔ VM)
+- Projeção do grafo em base de conhecimento navegável
+
+</td>
+<td width="50%" valign="top">
+
+**`web development`**
+
+- Sites institucionais para a Taticca Consulting
+- Dashboards e aplicações com React + TypeScript
+- Deploy e infra em Cloudflare Workers
+- Blog CMS em PHP + MySQL + Bootstrap
+
+</td>
+</tr>
+</table>
 
 &nbsp;
 
@@ -134,13 +182,14 @@ web-development/
 
 &nbsp;
 
-## `// trajetória`
+## `04` 経歴 · trajetória
 
 ```
-2025/04 ─ atual    Data Engineering & R&D        @ Taticca Consulting
-2024/09 ─ 2024/10  Estágio em Dev (QQTech)       @ Lojas Quero-Quero
-2024    ─ 2025/02  ADS (Tecnólogo)               @ PUCPR
-2023    ─ 2024     Auxiliar de Cozinha Freelancer  @ Pandas Chef
+2025 ── ● Software & Data Engineering  @ Taticca Consulting     [atual]
+        │
+2024 ── ● Estágio em Dev (QQTech)      @ Lojas Quero-Quero
+        │
+2024 ── ● Tecnólogo em ADS             @ PUCPR
 ```
 
 &nbsp;
@@ -151,15 +200,13 @@ web-development/
 
 <!-- ══════════════════════════════════════
      GITHUB STATS
-
-     Para contar commits e linguagens de repositórios privados de forma confiável,
-     troque github-readme-stats.vercel.app pela sua própria instância do
-     github-readme-stats configurada com um GitHub PAT.
 ══════════════════════════════════════ -->
 
-&nbsp;
+<div align="center">
 
----
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haykCAKI&hide_border=true&background=00000000&stroke=C9484F&ring=C9484F&fire=C9484F&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+</div>
 
 &nbsp;
 
@@ -169,12 +216,10 @@ web-development/
 
 <div align="center">
 
-*"Organização é o que torna automação útil."*
-
 &nbsp;
 
   <img
-    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ocean_with_cloud.png"
+    src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan_torii.png"
     alt="footer"
     width="100%"
   />
