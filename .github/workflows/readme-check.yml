@@ -1,0 +1,27 @@
+name: readme-check
+
+on:
+  push:
+    paths: [README.md, "assets/**", .github/workflows/readme-check.yml]
+  pull_request:
+    paths: [README.md, "assets/**", .github/workflows/readme-check.yml]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Remote links must answer 2xx/3xx; repo-relative paths must exist.
+      # Retries absorb third-party slowness (komarev.com often takes ~5s).
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 3 --retry-wait-time 5 --timeout 30 README.md
+          fail: true
+
+      - name: No template placeholders
+        run: |
+          if grep -nEi 'seu@email|your[-_ ]?(name|username|email)|lorem ipsum|example\.com|href="#"|\]\(#\)|TODO' README.md; then
+            echo "::error file=README.md::placeholder string found"
+            exit 1
+          fi
