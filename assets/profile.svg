@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="468" height="830" viewBox="0 0 468 830" role="img" aria-label="Herick Kumata — perfil em YAML: sobre, linguagens e contato">
+<style>
+.t { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #2a2d34; }
+.b { font-weight: 700; }
+.f { fill: #8a8d94; }
+.paper { animation: print 2.6s steps(26, end) both; }
+@keyframes print { from { transform: translateY(-768.0000000000001px); } to { transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) { .paper { animation: none; } }
+</style>
+<defs>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="120%">
+    <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity=".22"/>
+  </filter>
+  <clipPath id="below-slot"><rect x="0" y="31.0" width="468" height="830"/></clipPath>
+</defs>
+<g clip-path="url(#below-slot)">
+  <g transform="translate(24,31.0)">
+    <g class="paper">
+      <path d="M0,0 L420,0 L420,761.0000000000001 L412.5,768.0000000000001 L405.0,761.0000000000001 L397.5,768.0000000000001 L390.0,761.0000000000001 L382.5,768.0000000000001 L375.0,761.0000000000001 L367.5,768.0000000000001 L360.0,761.0000000000001 L352.5,768.0000000000001 L345.0,761.0000000000001 L337.5,768.0000000000001 L330.0,761.0000000000001 L322.5,768.0000000000001 L315.0,761.0000000000001 L307.5,768.0000000000001 L300.0,761.0000000000001 L292.5,768.0000000000001 L285.0,761.0000000000001 L277.5,768.0000000000001 L270.0,761.0000000000001 L262.5,768.0000000000001 L255.0,761.0000000000001 L247.5,768.0000000000001 L240.0,761.0000000000001 L232.5,768.0000000000001 L225.0,761.0000000000001 L217.5,768.0000000000001 L210.0,761.0000000000001 L202.5,768.0000000000001 L195.0,761.0000000000001 L187.5,768.0000000000001 L180.0,761.0000000000001 L172.5,768.0000000000001 L165.0,761.0000000000001 L157.5,768.0000000000001 L150.0,761.0000000000001 L142.5,768.0000000000001 L135.0,761.0000000000001 L127.5,768.0000000000001 L120.0,761.0000000000001 L112.5,768.0000000000001 L105.0,761.0000000000001 L97.5,768.0000000000001 L90.0,761.0000000000001 L82.5,768.0000000000001 L75.0,761.0000000000001 L67.5,768.0000000000001 L60.0,761.0000000000001 L52.5,768.0000000000001 L45.0,761.0000000000001 L37.5,768.0000000000001 L30.0,761.0000000000001 L22.5,768.0000000000001 L15.0,761.0000000000001 L7.5,768.0000000000001 L0.0,761.0000000000001 Z" fill="#fbfbf8" filter="url(#sh)"/>
+      <text x="210.0" y="44" class="t b" text-anchor="middle">HERICK AKIO YOSHII KUMATA</text>
+<text x="210.0" y="65" class="t" text-anchor="middle">software &amp; data engineer</text>
+<text x="210.0" y="98.6" class="t f" text-anchor="middle">------------------------------------------</text>
+<text x="210.0" y="119.6" class="t" text-anchor="middle">DOCUMENTO AUXILIAR DO PERFIL</text>
+<text x="210.0" y="140.6" class="t f" text-anchor="middle">não é documento fiscal</text>
+<text x="210.0" y="161.6" class="t f" text-anchor="middle">------------------------------------------</text>
+<text x="30" y="195.2" class="t" xml:space="preserve"><tspan class="b">sobre</tspan><tspan class="f">:</tspan></text>
+<text x="30" y="216.2" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">cargo</tspan><tspan class="f">: </tspan><tspan>Software &amp; Data Engineer</tspan></text>
+<text x="30" y="237.2" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">empresa</tspan><tspan class="f">: </tspan><tspan>Taticca Consulting</tspan></text>
+<text x="30" y="258.2" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">foco</tspan><tspan class="f">: </tspan><tspan>backend, dados e IA</tspan></text>
+<text x="30" y="279.2" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">formacao</tspan><tspan class="f">: </tspan><tspan>ADS — PUCPR</tspan></text>
+<text x="30" y="300.2" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>aberto a freelance</tspan></text>
+<text x="30" y="333.8" class="t" xml:space="preserve"><tspan class="b">linguagens</tspan><tspan class="f">:</tspan></text>
+<text x="30" y="354.8" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan>python</tspan><tspan class="f">      # ETL, APIs, agentes</tspan></text>
+<text x="30" y="375.8" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan>typescript</tspan><tspan class="f">  # front e workers</tspan></text>
+<text x="30" y="396.8" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan>javascript</tspan></text>
+<text x="30" y="417.8" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan>sql</tspan><tspan class="f">         # onde a verdade mora</tspan></text>
+<text x="30" y="451.40000000000003" class="t" xml:space="preserve"><tspan class="b">contato</tspan><tspan class="f">:</tspan></text>
+<text x="30" y="472.40000000000003" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">site</tspan><tspan class="f">: </tspan><tspan>curriculo.herickyk.workers.dev</tspan></text>
+<text x="30" y="493.40000000000003" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">linkedin</tspan><tspan class="f">: </tspan><tspan>in/herick-kumata</tspan></text>
+<text x="30" y="514.4000000000001" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">email</tspan><tspan class="f">: </tspan><tspan>herickyk@gmail.com</tspan></text>
+<text x="210.0" y="548.0000000000001" class="t f" text-anchor="middle">------------------------------------------</text>
+<text x="30" y="569.0000000000001" class="t">QTD. LINGUAGENS</text>
+<text x="390" y="569.0000000000001" class="t" text-anchor="end">4</text>
+<text x="30" y="590.0000000000001" class="t b">VALOR TOTAL</text>
+<text x="390" y="590.0000000000001" class="t b" text-anchor="end">a combinar</text>
+<text x="210.0" y="611.0000000000001" class="t f" text-anchor="middle">------------------------------------------</text>
+<text x="210.0" y="632.0000000000001" class="t f" text-anchor="middle">CHAVE DE ACESSO</text>
+<text x="210.0" y="653.0000000000001" class="t" text-anchor="middle" style="font-size:10.5px">4126 0900 0000 0000 0000 6500 1000 0000 0120 2600 0001</text>
+<g fill="#2a2d34"><rect x="40.0" y="662.0000000000001" width="3" height="46"/><rect x="46.2" y="662.0000000000001" width="1" height="46"/><rect x="50.4" y="662.0000000000001" width="3" height="46"/><rect x="55.6" y="662.0000000000001" width="2" height="46"/><rect x="60.8" y="662.0000000000001" width="2" height="46"/><rect x="66.0" y="662.0000000000001" width="1" height="46"/><rect x="71.2" y="662.0000000000001" width="1" height="46"/><rect x="76.4" y="662.0000000000001" width="1" height="46"/><rect x="80.6" y="662.0000000000001" width="2" height="46"/><rect x="84.8" y="662.0000000000001" width="2" height="46"/><rect x="90.0" y="662.0000000000001" width="2" height="46"/><rect x="94.2" y="662.0000000000001" width="2" height="46"/><rect x="99.4" y="662.0000000000001" width="1" height="46"/><rect x="102.6" y="662.0000000000001" width="2" height="46"/><rect x="107.8" y="662.0000000000001" width="1" height="46"/><rect x="112.0" y="662.0000000000001" width="2" height="46"/><rect x="117.2" y="662.0000000000001" width="2" height="46"/><rect x="121.4" y="662.0000000000001" width="2" height="46"/><rect x="125.6" y="662.0000000000001" width="3" height="46"/><rect x="131.8" y="662.0000000000001" width="3" height="46"/><rect x="139.0" y="662.0000000000001" width="1" height="46"/><rect x="142.2" y="662.0000000000001" width="2" height="46"/><rect x="147.4" y="662.0000000000001" width="3" height="46"/><rect x="154.6" y="662.0000000000001" width="2" height="46"/><rect x="159.8" y="662.0000000000001" width="1" height="46"/><rect x="164.0" y="662.0000000000001" width="2" height="46"/><rect x="170.2" y="662.0000000000001" width="3" height="46"/><rect x="175.4" y="662.0000000000001" width="2" height="46"/><rect x="180.6" y="662.0000000000001" width="2" height="46"/><rect x="185.8" y="662.0000000000001" width="3" height="46"/><rect x="193.0" y="662.0000000000001" width="2" height="46"/><rect x="198.2" y="662.0000000000001" width="3" height="46"/><rect x="205.4" y="662.0000000000001" width="1" height="46"/><rect x="210.6" y="662.0000000000001" width="3" height="46"/><rect x="217.8" y="662.0000000000001" width="3" height="46"/><rect x="224.0" y="662.0000000000001" width="3" height="46"/><rect x="229.2" y="662.0000000000001" width="2" height="46"/><rect x="234.4" y="662.0000000000001" width="3" height="46"/><rect x="240.6" y="662.0000000000001" width="2" height="46"/><rect x="245.8" y="662.0000000000001" width="2" height="46"/><rect x="250.0" y="662.0000000000001" width="1" height="46"/><rect x="254.2" y="662.0000000000001" width="2" height="46"/><rect x="260.4" y="662.0000000000001" width="1" height="46"/><rect x="265.6" y="662.0000000000001" width="2" height="46"/><rect x="269.8" y="662.0000000000001" width="2" height="46"/><rect x="275.0" y="662.0000000000001" width="2" height="46"/><rect x="279.2" y="662.0000000000001" width="2" height="46"/><rect x="284.4" y="662.0000000000001" width="2" height="46"/><rect x="289.6" y="662.0000000000001" width="1" height="46"/><rect x="292.8" y="662.0000000000001" width="2" height="46"/><rect x="297.0" y="662.0000000000001" width="2" height="46"/><rect x="302.2" y="662.0000000000001" width="2" height="46"/><rect x="306.4" y="662.0000000000001" width="1" height="46"/><rect x="310.6" y="662.0000000000001" width="2" height="46"/><rect x="315.8" y="662.0000000000001" width="1" height="46"/><rect x="320.0" y="662.0000000000001" width="2" height="46"/><rect x="324.2" y="662.0000000000001" width="1" height="46"/><rect x="329.4" y="662.0000000000001" width="2" height="46"/><rect x="333.6" y="662.0000000000001" width="1" height="46"/><rect x="337.8" y="662.0000000000001" width="1" height="46"/><rect x="341.0" y="662.0000000000001" width="3" height="46"/><rect x="347.2" y="662.0000000000001" width="2" height="46"/><rect x="351.4" y="662.0000000000001" width="2" height="46"/><rect x="355.6" y="662.0000000000001" width="1" height="46"/><rect x="360.8" y="662.0000000000001" width="1" height="46"/><rect x="366.0" y="662.0000000000001" width="1" height="46"/><rect x="370.2" y="662.0000000000001" width="1" height="46"/><rect x="373.4" y="662.0000000000001" width="3" height="46"/><rect x="379.6" y="662.0000000000001" width="2" height="46"/></g>
+<text x="210.0" y="732.0000000000001" class="t f" text-anchor="middle">obrigado pela visita</text>
+    </g>
+  </g>
+</g>
+<rect x="10" y="24" width="448" height="14" rx="7.0" fill="#3b3f47"/>
+<rect x="20" y="29.5" width="428" height="3" rx="1.5" fill="#15171b"/>
+</svg>
