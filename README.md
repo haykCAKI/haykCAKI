@@ -1,5 +1,5 @@
 <div align="center">
 
-<a href="https://curriculo.herickyk.workers.dev/"><img src="assets/profile.svg" alt="Cartão de visita japonês (名刺) com o perfil de Herick Kumata em YAML: sobre, linguagens, stack e contato" width="724" /></a>
+<a href="https://curriculo.herickyk.workers.dev/"><img src="assets/profile.svg" alt="Japanese business card (meishi) for Herick Kumata with a YAML profile: about, languages, stack, hobbies and contact" width="744" /></a>
 
 </div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="724" height="624" viewBox="0 0 724 624" role="img" aria-label="Cartão de visita japonês de Herick Kumata com perfil em YAML: sobre, linguagens e contato">
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="734" viewBox="0 0 744 734" role="img" aria-label="Japanese business card (meishi) for Herick Kumata with a YAML profile: about, languages, stack, hobbies and contact">
 <style>
 .t { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, "Noto Sans CJK JP", "Noto Sans JP", sans-serif; font-size: 13px; fill: #1f2226; }
 .b { font-weight: 700; }
@@ -32,41 +32,47 @@
   </filter>
 </defs>
 <g transform="translate(22,22)">
-  <rect width="680" height="580" rx="3" fill="#fafaf8" filter="url(#sh)"/>
-  <rect width="680" height="580" rx="3" fill="#fafaf8" filter="url(#washi)"/>
-  <text x="92" y="146.5" class="vn" text-anchor="middle" dominant-baseline="central">ヘ</text>
-<text x="92" y="177.5" class="vn" text-anchor="middle" dominant-baseline="central">リ</text>
-<text x="96" y="203.5" class="vn" text-anchor="middle" dominant-baseline="central">ッ</text>
-<text x="92" y="239.5" class="vn" text-anchor="middle" dominant-baseline="central">ク</text>
-<text x="92" y="270.5" class="vn" text-anchor="middle" dominant-baseline="central">・</text>
-<text x="92" y="301.5" class="vn" text-anchor="middle" dominant-baseline="central">ク</text>
-<text x="92" y="332.5" class="vn" text-anchor="middle" dominant-baseline="central">マ</text>
-<text x="92" y="363.5" class="vn" text-anchor="middle" dominant-baseline="central">タ</text>
-  <g class="stamp" filter="url(#rough)"><g transform="rotate(-8 92 419.5)"><circle cx="92" cy="419.5" r="29" fill="none" stroke="#c8302b" stroke-width="3"/><text x="92" y="403.5" class="hk" text-anchor="middle" dominant-baseline="central">ク</text><text x="92" y="419.5" class="hk" text-anchor="middle" dominant-baseline="central">マ</text><text x="92" y="435.5" class="hk" text-anchor="middle" dominant-baseline="central">タ</text></g></g>
-  <line x1="172" x2="172" y1="44" y2="536" stroke="#d9d8d3" stroke-width="1"/>
+  <rect width="700" height="690" rx="3" fill="#fafaf8" filter="url(#sh)"/>
+  <rect width="700" height="690" rx="3" fill="#fafaf8" filter="url(#washi)"/>
+  <text x="92" y="201.5" class="vn" text-anchor="middle" dominant-baseline="central">ヘ</text>
+<text x="92" y="232.5" class="vn" text-anchor="middle" dominant-baseline="central">リ</text>
+<text x="96" y="258.5" class="vn" text-anchor="middle" dominant-baseline="central">ッ</text>
+<text x="92" y="294.5" class="vn" text-anchor="middle" dominant-baseline="central">ク</text>
+<text x="92" y="325.5" class="vn" text-anchor="middle" dominant-baseline="central">・</text>
+<text x="92" y="356.5" class="vn" text-anchor="middle" dominant-baseline="central">ク</text>
+<text x="92" y="387.5" class="vn" text-anchor="middle" dominant-baseline="central">マ</text>
+<text x="92" y="418.5" class="vn" text-anchor="middle" dominant-baseline="central">タ</text>
+  <g class="stamp" filter="url(#rough)"><g transform="rotate(-8 92 474.5)"><circle cx="92" cy="474.5" r="29" fill="none" stroke="#c8302b" stroke-width="3"/><text x="92" y="458.5" class="hk" text-anchor="middle" dominant-baseline="central">ク</text><text x="92" y="474.5" class="hk" text-anchor="middle" dominant-baseline="central">マ</text><text x="92" y="490.5" class="hk" text-anchor="middle" dominant-baseline="central">タ</text></g></g>
+  <line x1="172" x2="172" y1="44" y2="646" stroke="#d9d8d3" stroke-width="1"/>
   <text x="208" y="80" class="ln">Herick Akio Yoshii Kumata</text>
 <text x="208" y="106" class="role">software &amp; data engineer</text>
 <text x="358" y="160" class="cm"># 概要</text>
-<text x="208" y="160" class="t" xml:space="preserve"><tspan class="b">sobre</tspan><tspan class="f">: |</tspan></text>
-<text x="208" y="180" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Transformo processos manuais e planilhas em</tspan></text>
-<text x="208" y="200" class="t" xml:space="preserve"><tspan>  </tspan><tspan>sistemas: APIs, pipelines de dados e agentes</tspan></text>
-<text x="208" y="220" class="t" xml:space="preserve"><tspan>  </tspan><tspan>de IA que rodam em produção, não só na demo.</tspan></text>
-<text x="208" y="240" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Gosto de modelagem de dados bem feita e de</tspan></text>
-<text x="208" y="260" class="t" xml:space="preserve"><tspan>  </tspan><tspan>código que o próximo dev consegue entender.</tspan></text>
-<text x="208" y="280" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Aberto a freelance.</tspan></text>
+<text x="208" y="160" class="t" xml:space="preserve"><tspan class="b">about</tspan><tspan class="f">: |</tspan></text>
+<text x="208" y="180" class="t" xml:space="preserve"><tspan>  </tspan><tspan>I turn manual processes and spreadsheets into</tspan></text>
+<text x="208" y="200" class="t" xml:space="preserve"><tspan>  </tspan><tspan>systems: APIs, data pipelines and AI agents</tspan></text>
+<text x="208" y="220" class="t" xml:space="preserve"><tspan>  </tspan><tspan>that run in production, not just in the demo.</tspan></text>
+<text x="208" y="240" class="t" xml:space="preserve"><tspan>  </tspan><tspan>I care about solid data modeling and code</tspan></text>
+<text x="208" y="260" class="t" xml:space="preserve"><tspan>  </tspan><tspan>the next dev can actually read.</tspan></text>
+<text x="208" y="280" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Open to freelance work.</tspan></text>
 <text x="358" y="310" class="cm"># 言語</text>
-<text x="208" y="310" class="t" xml:space="preserve"><tspan class="b">linguagens</tspan><tspan class="f">:</tspan></text>
+<text x="208" y="310" class="t" xml:space="preserve"><tspan class="b">languages</tspan><tspan class="f">:</tspan></text>
 <text x="208" y="330" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">[</tspan><tspan>python, typescript, javascript, sql</tspan><tspan class="f">]</tspan></text>
 <text x="358" y="360" class="cm"># 技術</text>
 <text x="208" y="360" class="t" xml:space="preserve"><tspan class="b">stack</tspan><tspan class="f">:</tspan></text>
-<text x="208" y="380" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">backend</tspan><tspan class="f">: [</tspan><tspan>fastapi, node.js, react, playwright</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="400" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">dados</tspan><tspan class="f">:   [</tspan><tspan>postgresql, oracle, duckdb, pandas</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="420" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">nuvem</tspan><tspan class="f">:   [</tspan><tspan>aws, gcp, cloudflare, docker</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="440" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">ia</tspan><tspan class="f">:      [</tspan><tspan>claude, openai, agentes, mcp</tspan><tspan class="f">]</tspan></text>
-<text x="358" y="470" class="cm"># 連絡先</text>
-<text x="208" y="470" class="t" xml:space="preserve"><tspan class="b">contato</tspan><tspan class="f">:</tspan></text>
-<text x="208" y="490" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">site</tspan><tspan class="f">: </tspan><tspan>curriculo.herickyk.workers.dev</tspan></text>
-<text x="208" y="510" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">linkedin</tspan><tspan class="f">: </tspan><tspan>in/herick-kumata</tspan></text>
-<text x="208" y="530" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">email</tspan><tspan class="f">: </tspan><tspan>herickyk@gmail.com</tspan></text>
+<text x="208" y="380" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">backend</tspan><tspan class="f">:  [</tspan><tspan>fastapi, node.js, react, playwright</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="400" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">data</tspan><tspan class="f">:     [</tspan><tspan>postgresql, oracle, duckdb, pandas</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="420" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">cloud</tspan><tspan class="f">:    [</tspan><tspan>aws, gcp, cloudflare, docker</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="440" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">ai</tspan><tspan class="f">:       [</tspan><tspan>claude, openai, agents, mcp</tspan><tspan class="f">]</tspan></text>
+<text x="358" y="470" class="cm"># 趣味</text>
+<text x="208" y="470" class="t" xml:space="preserve"><tspan class="b">hobbies</tspan><tspan class="f">:</tspan></text>
+<text x="208" y="490" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">music</tspan><tspan class="f">:    [</tspan><tspan>guitar</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="510" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">sports</tspan><tspan class="f">:   [</tspan><tspan>calisthenics, running, muay thai</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="530" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">games</tspan><tspan class="f">:    [</tspan><tspan>cs2, valorant, overwatch, mmorpgs,</tspan></text>
+<text x="208" y="550" class="t" xml:space="preserve"><tspan>             </tspan><tspan>age of empires iv, space marine 40k</tspan><tspan class="f">]</tspan></text>
+<text x="358" y="580" class="cm"># 連絡先</text>
+<text x="208" y="580" class="t" xml:space="preserve"><tspan class="b">contact</tspan><tspan class="f">:</tspan></text>
+<text x="208" y="600" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">site</tspan><tspan class="f">: </tspan><tspan>curriculo.herickyk.workers.dev</tspan></text>
+<text x="208" y="620" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">linkedin</tspan><tspan class="f">: </tspan><tspan>in/herick-kumata</tspan></text>
+<text x="208" y="640" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">email</tspan><tspan class="f">: </tspan><tspan>herickyk@gmail.com</tspan></text>
 </g>
 </svg>
