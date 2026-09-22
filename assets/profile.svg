@@ -47,12 +47,12 @@
   <text x="208" y="80" class="ln">Herick Akio Yoshii Kumata</text>
 <text x="208" y="106" class="role">software &amp; data engineer</text>
 <text x="358" y="160" class="cm"># 概要</text>
-<text x="208" y="160" class="t" xml:space="preserve"><tspan class="b">sobre</tspan><tspan class="f">:</tspan></text>
-<text x="208" y="180" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">gosto</tspan><tspan class="f">:     </tspan><tspan>sistemas bem desenhados e robustos</tspan></text>
-<text x="208" y="200" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">curto</tspan><tspan class="f">:     </tspan><tspan>system design, bancos de dados, IA</tspan></text>
-<text x="208" y="220" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">estudando</tspan><tspan class="f">: </tspan><tspan>agentes, MCPs, modelos de raciocínio</tspan></text>
-<text x="208" y="240" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">lema</tspan><tspan class="f">:      </tspan><tspan>&quot;organização torna automação útil&quot;</tspan></text>
-<text x="208" y="260" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">status</tspan><tspan class="f">:    </tspan><tspan>aberto a freelance</tspan></text>
+<text x="208" y="160" class="t" xml:space="preserve"><tspan class="b">sobre</tspan><tspan class="f">: |</tspan></text>
+<text x="208" y="180" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Engenheiro de software e dados. Gosto de</tspan></text>
+<text x="208" y="200" class="t" xml:space="preserve"><tspan>  </tspan><tspan>construir sistemas robustos e bem desenhados,</tspan></text>
+<text x="208" y="220" class="t" xml:space="preserve"><tspan>  </tspan><tspan>do banco de dados à IA. Hoje estudo agentes,</tspan></text>
+<text x="208" y="240" class="t" xml:space="preserve"><tspan>  </tspan><tspan>MCPs e modelos de raciocínio.</tspan></text>
+<text x="208" y="260" class="t" xml:space="preserve"><tspan>  </tspan><tspan>Aberto a freelance.</tspan></text>
 <text x="358" y="290" class="cm"># 言語</text>
 <text x="208" y="290" class="t" xml:space="preserve"><tspan class="b">linguagens</tspan><tspan class="f">:</tspan></text>
 <text x="208" y="310" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">[</tspan><tspan>python, typescript, javascript, sql</tspan><tspan class="f">]</tspan></text>
