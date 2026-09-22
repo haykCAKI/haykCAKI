@@ -2,9 +2,9 @@ name: readme-check
 
 on:
   push:
-    paths: [README.md, "assets/**", .github/workflows/readme-check.yml]
+    paths: [README.md, "assets/**", "scripts/**", "tests/**", .github/confidential.json, .github/workflows/readme-check.yml]
   pull_request:
-    paths: [README.md, "assets/**", .github/workflows/readme-check.yml]
+    paths: [README.md, "assets/**", "scripts/**", "tests/**", .github/confidential.json, .github/workflows/readme-check.yml]
 
 jobs:
   check:
@@ -25,3 +25,9 @@ jobs:
             echo "::error file=README.md::placeholder string found"
             exit 1
           fi
+
+      # No client name and no link to a private repo; see .github/confidential.json.
+      - name: No confidential names or private repo links
+        run: |
+          python3 -m unittest discover -s tests
+          python3 scripts/check_confidential.py

@@ -7,6 +7,8 @@
 
 <sub>Anthropic Education · Claude 101 (Aug 17, 2026) · Claude Code 101 (Aug 18, 2026)</sub>
 
+<img src="assets/projects.svg" alt="Projects card: JARVIS, shared working memory for AI coding agents, built with Python, FastAPI, SQLite and MCP" width="744" />
+
 <img src="https://komarev.com/ghpvc/?username=haykCAKI&label=visitors&color=c8302b&style=flat-square" alt="profile visitors" />
 
 </div>

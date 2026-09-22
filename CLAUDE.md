@@ -3,6 +3,14 @@
 The GitHub profile repository for `haykCAKI` — the `README.md` rendered on the
 profile page.
 
+## Confidentiality
+
+No client name and no link to a private repository may reach `README.md` or
+`assets/*.svg`. `python3 scripts/check_confidential.py` enforces it against
+`.github/confidential.json`: client words stored as SHA-256 hashes, and the
+allowlist of public repos. Never write a client name in plain text anywhere in
+this repo, including tests.
+
 ## Agent skills
 
 ### Issue tracker
