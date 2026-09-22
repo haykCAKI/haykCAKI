@@ -71,7 +71,7 @@
 <text x="208" y="360" class="t" xml:space="preserve"><tspan class="b">stack</tspan><tspan class="f">:</tspan></text>
 <text x="208" y="380" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">backend</tspan><tspan class="f">:  [</tspan><tspan>fastapi, node.js, react, playwright</tspan><tspan class="f">]</tspan></text>
 <text x="208" y="400" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">data</tspan><tspan class="f">:     [</tspan><tspan>postgresql, oracle, duckdb, pandas, numpy</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="420" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">cloud</tspan><tspan class="f">:    [</tspan><tspan>aws, gcp, cloudflare, docker</tspan><tspan class="f">]</tspan></text>
+<text x="208" y="420" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">cloud</tspan><tspan class="f">:    [</tspan><tspan>aws, gcp, cloudflare, docker, ci/cd</tspan><tspan class="f">]</tspan></text>
 <text x="208" y="440" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">hosting</tspan><tspan class="f">:  [</tspan><tspan>hostinger, registro.br, godaddy</tspan><tspan class="f">]</tspan></text>
 <text x="208" y="460" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="b">ai</tspan><tspan class="f">:       [</tspan><tspan>claude, openai, agents, mcp, graph, ocr</tspan><tspan class="f">]</tspan></text>
 <text x="358" y="490" class="cm"># 趣味</text>
