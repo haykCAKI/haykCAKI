@@ -58,6 +58,6 @@
 <text x="208" y="564" class="t" xml:space="preserve"><tspan>      </tspan><tspan>your gear, and get picks from an AI coffee</tspan></text>
 <text x="208" y="584" class="t" xml:space="preserve"><tspan>      </tspan><tspan>advisor built on Claude (next phase).</tspan></text>
 <text x="208" y="604" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">stack</tspan><tspan class="f">:  [</tspan><tspan>next.js, nestjs, prisma, postgres, three.js</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="624" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>private, in development</tspan></text>
+<text x="208" y="624" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>live at coffeeverse.herickyk.workers.dev</tspan></text>
 </g>
 </svg>
