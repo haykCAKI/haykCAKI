@@ -41,7 +41,7 @@
 <text x="208" y="184" class="t" xml:space="preserve"><tspan>      </tspan><tspan>daemon over SQLite, served over HTTP and MCP,</tspan></text>
 <text x="208" y="204" class="t" xml:space="preserve"><tspan>      </tspan><tspan>plus a structural code graph per repository.</tspan></text>
 <text x="208" y="224" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">stack</tspan><tspan class="f">:  [</tspan><tspan>python, fastapi, sqlite, mcp</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="244" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>private, in daily use since 2026-09</tspan></text>
+<text x="208" y="244" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>private, in production since 2025</tspan></text>
 <text x="208" y="284" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan class="b">name</tspan><tspan class="f">: </tspan><tspan>fci-project</tspan></text>
 <text x="208" y="304" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">what</tspan><tspan class="f">: |</tspan></text>
 <text x="208" y="324" class="t" xml:space="preserve"><tspan>      </tspan><tspan>Agent plugin that computes Brazil's FCI, the</tspan></text>
@@ -50,7 +50,7 @@
 <text x="208" y="384" class="t" xml:space="preserve"><tspan>      </tspan><tspan>result workbook and the 5020 blocks. A generic</tspan></text>
 <text x="208" y="404" class="t" xml:space="preserve"><tspan>      </tspan><tspan>engine for Claude Code, Codex and opencode.</tspan></text>
 <text x="208" y="424" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">stack</tspan><tspan class="f">:  [</tspan><tspan>python, pandas, pyarrow, openpyxl</tspan><tspan class="f">]</tspan></text>
-<text x="208" y="444" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>private, since 2026-08</tspan></text>
+<text x="208" y="444" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">status</tspan><tspan class="f">: </tspan><tspan>private, in production since 2026</tspan></text>
 <text x="208" y="484" class="t" xml:space="preserve"><tspan>  </tspan><tspan class="f">- </tspan><tspan class="b">name</tspan><tspan class="f">: </tspan><tspan>coffeeverse</tspan></text>
 <text x="208" y="504" class="t" xml:space="preserve"><tspan>    </tspan><tspan class="b">what</tspan><tspan class="f">: |</tspan></text>
 <text x="208" y="524" class="t" xml:space="preserve"><tspan>      </tspan><tspan>Full-stack coffee discovery app: inspect beans</tspan></text>
