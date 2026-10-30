@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="984" viewBox="0 0 744 984" role="img" aria-label="Profile card for Herick Kumata on a night koi pond: about, career, stack and interests">
+<style>
+.ln { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 22px; font-weight: 650; letter-spacing: .2px; fill: #e6edf6; }
+.role { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 14px; fill: #8fa0b8; }
+.h { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 2.2px; fill: #8cc6ef; }
+.p, .v { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 13.5px; fill: #d5deea; }
+.hi { fill: #f0a070; font-weight: 600; }
+.k { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 13px; fill: #7f8ea6; font-variant-numeric: tabular-nums; }
+.vl { font-family: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, Georgia, "Times New Roman", serif; font-size: 22px; font-weight: 600; fill: #dfe7f2; }
+/* ensō: rotateY emulated with scaleX (orthographic), since 3D transforms are unreliable inside SVG */
+.ry-spin { animation: ry 14s linear infinite; }
+@keyframes ry { 0%, 100% { transform: scaleX(1); } 25% { transform: scaleX(0); } 50% { transform: scaleX(-1); } 75% { transform: scaleX(0); } }
+.glow { transform-box: fill-box; transform-origin: center; animation: breathe 6s ease-in-out infinite; }
+@keyframes breathe { 0%, 100% { opacity: .85; transform: scale(1); } 50% { opacity: 1; transform: scale(1.04); } }
+.ripple { transform-box: fill-box; transform-origin: center; animation: ripple 6s ease-out infinite; opacity: 0; }
+@keyframes ripple { 0% { transform: scale(.08); opacity: .7; } 100% { transform: scale(1); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ry-spin, .glow, .ripple { animation: none; } .ripple { opacity: .4; } }
+</style>
+<defs>
+  <filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000" flood-opacity=".55"/></filter>
+  <radialGradient id="halo"><stop offset="0" stop-color="#e8eef7" stop-opacity=".35"/><stop offset="1" stop-color="#e8eef7" stop-opacity="0"/></radialGradient>
+  <radialGradient id="pond" cx="40%" cy="35%" r="80%"><stop offset="0" stop-color="#16324a"/><stop offset="1" stop-color="#0e1726"/></radialGradient>
+  <clipPath id="card"><rect width="700" height="940" rx="3"/></clipPath>
+</defs>
+<g transform="translate(22,22)">
+  <rect width="700" height="940" rx="3" fill="#0e1726" filter="url(#sh)"/>
+  <g clip-path="url(#card)">
+    <rect width="172" height="240" fill="url(#pond)"/>
+    <circle class="ripple" cx="60" cy="70" r="42" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:0s"/><circle class="ripple" cx="60" cy="70" r="42" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:2s"/><circle class="ripple" cx="128" cy="150" r="42" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:3.5s"/><circle class="ripple" cx="30" cy="190" r="42" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:1.2s"/>
+    <path d="M140,46 m16,0 a16,16 0 1,1 -32,0 a16,16 0 0,1 22.4,-11.52 Z" transform="rotate(20 140 46)" fill="#1d3b45" stroke="#2c5560" stroke-width="1"/><path d="M22,132 m12,0 a12,12 0 1,1 -24,0 a12,12 0 0,1 16.8,-8.64 Z" transform="rotate(-40 22 132)" fill="#1d3b45" stroke="#2c5560" stroke-width="1"/><path d="M150,205 m10,0 a10,10 0 1,1 -20,0 a10,10 0 0,1 14.0,-7.20 Z" transform="rotate(80 150 205)" fill="#1d3b45" stroke="#2c5560" stroke-width="1"/>
+    <g><animateMotion path="M30,40 C110,10 160,80 120,150 C80,220 10,170 30,40 Z" dur="26s" begin="0s" repeatCount="indefinite" rotate="auto"/><g transform="scale(1)"><path d="M-16,0 L-26,-7 L-23,0 L-26,7 Z" fill="#f2ece2" opacity=".85"/><ellipse rx="15" ry="5.5" fill="#f2ece2"/><ellipse cx="3" cy="-1" rx="4" ry="2.4" fill="#e0612f"/><path d="M-2,-4 L-7,-10 L-6,-3 Z M-2,4 L-7,10 L-6,3 Z" fill="#f2ece2" opacity=".7"/></g></g>
+    <g><animateMotion path="M140,180 C60,230 0,120 60,90 C120,60 180,130 140,180 Z" dur="32s" begin="-9s" repeatCount="indefinite" rotate="auto"/><g transform="scale(0.85)"><path d="M-16,0 L-26,-7 L-23,0 L-26,7 Z" fill="#e8743b" opacity=".85"/><ellipse rx="15" ry="5.5" fill="#e8743b"/><ellipse cx="3" cy="-1" rx="4" ry="2.4" fill="#f6f1e8"/><path d="M-2,-4 L-7,-10 L-6,-3 Z M-2,4 L-7,10 L-6,3 Z" fill="#e8743b" opacity=".7"/></g></g>
+  </g>
+  <g transform="translate(92,303)"><circle r="34" fill="url(#halo)"/><circle class="glow" r="19" fill="#e8eef7"/><g transform="scale(.76)"><g class="ry-spin"><circle r="46" pathLength="300" transform="rotate(-20)" fill="none" stroke="#8cc6ef" stroke-width="5" stroke-linecap="round" stroke-dasharray="285" stroke-dashoffset="18" opacity=".9"/><circle r="48" pathLength="300" transform="rotate(35)" fill="none" stroke="#8cc6ef" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="295" stroke-dashoffset="8" opacity=".35"/></g></g></g>
+<text x="92" y="395" class="vl" text-anchor="middle" dominant-baseline="central">H</text>
+<text x="92" y="422" class="vl" text-anchor="middle" dominant-baseline="central">E</text>
+<text x="92" y="449" class="vl" text-anchor="middle" dominant-baseline="central">R</text>
+<text x="92" y="476" class="vl" text-anchor="middle" dominant-baseline="central">I</text>
+<text x="92" y="503" class="vl" text-anchor="middle" dominant-baseline="central">C</text>
+<text x="92" y="530" class="vl" text-anchor="middle" dominant-baseline="central">K</text>
+<text x="92" y="579" class="vl" text-anchor="middle" dominant-baseline="central">K</text>
+<text x="92" y="606" class="vl" text-anchor="middle" dominant-baseline="central">U</text>
+<text x="92" y="633" class="vl" text-anchor="middle" dominant-baseline="central">M</text>
+<text x="92" y="660" class="vl" text-anchor="middle" dominant-baseline="central">A</text>
+<text x="92" y="687" class="vl" text-anchor="middle" dominant-baseline="central">T</text>
+<text x="92" y="714" class="vl" text-anchor="middle" dominant-baseline="central">A</text>
+<line x1="172" x2="172" y1="44" y2="904" stroke="#26344c" stroke-width="1"/>
+<text x="208" y="80" class="ln">Herick Akio Yoshii Kumata</text>
+<text x="208" y="106" class="role">Software &amp; data engineer · Paraná, Brazil</text>
+<text x="208" y="152" class="h">ABOUT</text>
+<text x="208" y="176" class="p">I build systems, pipelines and internal tools that turn raw,</text>
+<text x="208" y="196" class="p">messy data into a clean, reliable and auditable base. Method</text>
+<text x="208" y="216" class="p">comes before the tool: I map the inputs, rules and exceptions</text>
+<text x="208" y="236" class="p">first, because organization is what makes automation useful.</text>
+<text x="208" y="266" class="p">Day to day I work with accounting and tax data at an audit firm,</text>
+<text x="208" y="286" class="p">where volume is high, every number must be traceable and there</text>
+<text x="208" y="306" class="p">is little room for error. I build ETL pipelines over ledger and</text>
+<text x="208" y="326" class="p">tax filings of up to 67 million records, outlier models that</text>
+<text x="208" y="346" class="p">triage documents for audit review, and browser automation that</text>
+<text x="208" y="366" class="p">removes manual steps.</text>
+<text x="208" y="396" class="p">I also build AI skills, subagents and agents, backed by a shared</text>
+<text x="208" y="416" class="p">knowledge graph, that make that work easier and more precise.</text>
+<text x="208" y="446" class="p hi">Open to freelance work: automation, data engineering, web apps,</text>
+<text x="208" y="466" class="p hi">AI integrations and custom internal tools.</text>
+<text x="208" y="512" class="h">CAREER</text>
+<text x="208" y="536" class="k">Now</text><text x="326" y="536" class="v">AI &amp; data engineering at an audit firm</text>
+<text x="208" y="556" class="k">2024</text><text x="326" y="556" class="v">Software development intern, QQTech program</text>
+<text x="208" y="576" class="k">Education</text><text x="326" y="576" class="v">Systems Analysis &amp; Development, PUCPR</text>
+<text x="208" y="622" class="h">STACK</text>
+<text x="208" y="646" class="k">Languages</text><text x="326" y="646" class="v">Python, TypeScript, JavaScript, SQL</text>
+<text x="208" y="666" class="k">Web &amp; backend</text><text x="326" y="666" class="v">FastAPI, Node.js, React, Playwright</text>
+<text x="208" y="686" class="k">Data</text><text x="326" y="686" class="v">PostgreSQL, Oracle, DuckDB, pandas, scikit-learn</text>
+<text x="208" y="706" class="k">Cloud</text><text x="326" y="706" class="v">AWS, GCP, Cloudflare, Render, Docker, CI/CD</text>
+<text x="208" y="726" class="k">AI</text><text x="326" y="726" class="v">Claude, OpenAI, agents, MCP, knowledge graphs, OCR</text>
+<text x="208" y="746" class="k">Tools</text><text x="326" y="746" class="v">Excel, Google Sheets, Colab</text>
+<text x="208" y="766" class="k">Domain</text><text x="326" y="766" class="v">Accounting, tax and audit</text>
+<text x="208" y="812" class="h">OFF THE CLOCK</text>
+<text x="208" y="836" class="k">Music</text><text x="326" y="836" class="v">Guitar</text>
+<text x="208" y="856" class="k">Sports</text><text x="326" y="856" class="v">Calisthenics, running, Muay Thai</text>
+<text x="208" y="876" class="k">Games</text><text x="326" y="876" class="v">CS2, Valorant, Overwatch, MMORPGs,</text>
+<text x="326" y="896" class="v">Age of Empires IV, Space Marine 40K</text>
+</g>
+</svg>
