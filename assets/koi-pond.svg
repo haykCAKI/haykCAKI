@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Herick Kumata, software and data engineer: koi swimming in a night pond under an ensō moon">
+<style>
+.name { font-family: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif CJK JP", Georgia, "Times New Roman", serif; font-size: 52px; font-weight: 600; letter-spacing: 1px; fill: #e6edf6; }
+.role { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 17px; letter-spacing: 3px; fill: #8fa0b8; }
+/* Every animation is CSS so prefers-reduced-motion can stop it; the resting frame is the composed scene. */
+/* negative delays start each koi mid-lane, so the first frame is never an empty pond */
+.swim-r { animation: swim-r 38s linear infinite -10s; }
+.swim-l { animation: swim-l 46s linear infinite -21s; }
+.swim-r2 { animation: swim-r 54s linear infinite -30s; }
+@keyframes swim-r { 0% { transform: translate(-700px, 0); } 50% { transform: translate(100px, -12px); } 100% { transform: translate(900px, 0); } }
+@keyframes swim-l { 0% { transform: translate(700px, 0); } 50% { transform: translate(-100px, 10px); } 100% { transform: translate(-900px, 0); } }
+.tail { transform-box: fill-box; transform-origin: right center; animation: tail 1.6s ease-in-out infinite alternate; }
+@keyframes tail { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
+.ry-spin { animation: ry 14s linear infinite; }
+@keyframes ry { 0%, 100% { transform: scaleX(1); } 25% { transform: scaleX(0); } 50% { transform: scaleX(-1); } 75% { transform: scaleX(0); } }
+.ripple { transform-box: fill-box; transform-origin: center; animation: ripple 7s ease-out infinite; opacity: 0; }
+@keyframes ripple { 0% { transform: scale(.08); opacity: .6; } 100% { transform: scale(1); opacity: 0; } }
+.glint { animation: glint 9s ease-in-out infinite; }
+@keyframes glint { 0%, 100% { opacity: .25; } 50% { opacity: .5; } }
+.glint { opacity: .35; }
+@media (prefers-reduced-motion: reduce) { .swim-r, .swim-l, .swim-r2, .tail, .ry-spin, .ripple, .glint { animation: none; } .ripple { opacity: .3; } }
+</style>
+<defs>
+  <radialGradient id="water" cx="78%" cy="30%" r="95%"><stop offset="0" stop-color="#1b3a55"/><stop offset=".55" stop-color="#11243a"/><stop offset="1" stop-color="#0b1422"/></radialGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#e8eef7" stop-opacity=".32"/><stop offset="1" stop-color="#e8eef7" stop-opacity="0"/></radialGradient>
+  <linearGradient id="streak"><stop offset="0" stop-color="#e8eef7" stop-opacity="0"/><stop offset=".5" stop-color="#e8eef7"/><stop offset="1" stop-color="#e8eef7" stop-opacity="0"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="320" rx="16"/></clipPath>
+  <g id="koi-white"><path class="tail" d="M-16,0 L-28,-8 L-24,0 L-28,8 Z" fill="#f2ece2" opacity=".85"/><ellipse rx="17" ry="6" fill="#f2ece2"/><ellipse cx="4" cy="-1" rx="4.5" ry="2.6" fill="#e0612f"/><ellipse cx="-6" cy="1.5" rx="3" ry="1.8" fill="#e0612f" opacity=".8"/><path d="M-2,-5 L-8,-11 L-7,-3 Z M-2,5 L-8,11 L-7,3 Z" fill="#f2ece2" opacity=".6"/></g>
+  <g id="koi-orange"><path class="tail" d="M-16,0 L-28,-8 L-24,0 L-28,8 Z" fill="#e8743b" opacity=".85"/><ellipse rx="17" ry="6" fill="#e8743b"/><ellipse cx="4" cy="-1" rx="4.5" ry="2.6" fill="#f6f1e8"/><path d="M-2,-5 L-8,-11 L-7,-3 Z M-2,5 L-8,11 L-7,3 Z" fill="#e8743b" opacity=".6"/></g>
+  <g id="koi-gold"><path class="tail" d="M-16,0 L-28,-8 L-24,0 L-28,8 Z" fill="#d9a548" opacity=".85"/><ellipse rx="17" ry="6" fill="#d9a548"/><path d="M-2,-5 L-8,-11 L-7,-3 Z M-2,5 L-8,11 L-7,3 Z" fill="#d9a548" opacity=".6"/></g>
+  <path id="pad" d="M16,0 a16,16 0 1,1 -4.8,-11.4 L0,0 Z" fill="#1d3b45" stroke="#2c5560" stroke-width="1"/>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="320" fill="url(#water)"/>
+
+  <!-- moon reflection: ensō on the water -->
+  <ellipse class="glint" cx="960" cy="236" rx="120" ry="3" fill="url(#streak)"/>
+  <ellipse class="glint" cx="960" cy="254" rx="80" ry="2.5" fill="url(#streak)" style="animation-delay:-3s"/>
+  <ellipse class="glint" cx="960" cy="270" rx="46" ry="2" fill="url(#streak)" style="animation-delay:-6s"/>
+  <g transform="translate(960 120)">
+    <circle r="70" fill="url(#halo)"/>
+    <circle r="26" fill="#e8eef7" opacity=".9"/>
+    <g class="ry-spin"><circle r="46" pathLength="300" transform="rotate(-20)" fill="none" stroke="#8cc6ef" stroke-width="4" stroke-linecap="round" stroke-dasharray="285" stroke-dashoffset="18" opacity=".85"/><circle r="49" pathLength="300" transform="rotate(35)" fill="none" stroke="#8cc6ef" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="295" stroke-dashoffset="8" opacity=".35"/></g>
+  </g>
+
+  <!-- ripples -->
+  <circle class="ripple" cx="640" cy="230" r="70" fill="none" stroke="#5fa8d8" stroke-width="1"/>
+  <circle class="ripple" cx="640" cy="230" r="70" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:2.4s"/>
+  <circle class="ripple" cx="1110" cy="70" r="55" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:4.1s"/>
+  <circle class="ripple" cx="250" cy="270" r="60" fill="none" stroke="#5fa8d8" stroke-width="1" style="animation-delay:1.3s"/>
+
+  <!-- lily pads -->
+  <use href="#pad" transform="translate(760 70) rotate(20) scale(1.4)"/>
+  <use href="#pad" transform="translate(800 92) rotate(-50) scale(.9)"/>
+  <use href="#pad" transform="translate(1120 230) rotate(80) scale(1.6)"/>
+  <use href="#pad" transform="translate(560 290) rotate(-30) scale(1.1)"/>
+  <use href="#pad" transform="translate(40 40) rotate(140) scale(1.2)"/>
+
+  <!-- koi: position on the outer group, motion on the inner one, so the resting frame keeps them in view -->
+  <g transform="translate(470 250)"><g class="swim-r"><use href="#koi-white" transform="scale(1.9)"/></g></g>
+  <g transform="translate(720 205)"><g class="swim-l"><use href="#koi-orange" transform="scale(-1.65 1.65)"/></g></g>
+  <g transform="translate(300 285)"><g class="swim-r2"><use href="#koi-gold" transform="scale(1.35)"/></g></g>
+
+  <text x="72" y="140" class="name">Herick Kumata</text>
+  <text x="74" y="180" class="role">SOFTWARE &amp; DATA ENGINEER · PARANÁ, BRAZIL</text>
+</g>
+</svg>

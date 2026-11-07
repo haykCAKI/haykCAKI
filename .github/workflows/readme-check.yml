@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # Remote links must answer 2xx/3xx; repo-relative paths must exist.
-      # Retries absorb third-party slowness (komarev.com often takes ~5s).
+      # Retries absorb third-party slowness.
       # LinkedIn answers bots with status 999, so its link is excluded.
       - uses: lycheeverse/lychee-action@v2
         with:
