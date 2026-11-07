@@ -1,9 +1,5 @@
-<div align="center">
+<p><a href="https://curriculo.herickyk.workers.dev/"><img src="assets/koi-pond.svg" alt="Herick Kumata, software and data engineer: koi swimming in a night pond under an ensō moon" /></a></p>
 
-<p><a href="https://curriculo.herickyk.workers.dev/"><img src="assets/profile-koi.svg" alt="Profile card for Herick Kumata on a night koi pond: about, career, stack and interests" width="744" /></a></p>
+**Kumata, Herick Akio Yoshii** (fl. early 21st century), Brazilian software and data engineer from Paraná. Works with accounting and tax data at an audit firm, where every number must be traceable: ETL pipelines over ledgers and tax filings of up to 67 million records, outlier models that triage documents for audit review, and AI agents backed by a shared knowledge graph. Known for mapping inputs, rules and exceptions before choosing a tool. Writes Python, SQL and TypeScript; plays guitar; trains calisthenics, running and Muay Thai. Open to freelance work in automation, data engineering and AI integrations.
 
-<p><a href="https://curriculo.herickyk.workers.dev/">curriculo.herickyk.workers.dev</a> · <a href="https://www.linkedin.com/in/herick-kumata">linkedin.com/in/herick-kumata</a> · <a href="mailto:herickyk@gmail.com">herickyk@gmail.com</a></p>
-
-<p><img src="https://komarev.com/ghpvc/?username=haykCAKI&label=visitors&color=4fa3d9&style=flat-square" alt="profile visitors" /></p>
-
-</div>
+<p align="center"><samp><a href="https://curriculo.herickyk.workers.dev/">résumé</a> · <a href="https://www.linkedin.com/in/herick-kumata">linkedin</a> · <a href="mailto:herickyk@gmail.com">herickyk@gmail.com</a></samp></p>
