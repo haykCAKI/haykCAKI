@@ -27,3 +27,12 @@ See `docs/agents/triage-labels.md`.
 
 Single-context — `CONTEXT.md` and `docs/adr/` at the repo root.
 See `docs/agents/domain.md`.
+
+<!-- cto-cakis:begin -->
+## cto-cakis
+- test: `python3 -m unittest discover -s tests && python3 scripts/check_confidential.py`
+- verify: CI `readme-check` green (lychee link check), then the README on the branch view on github.com renders the card and every link opens
+- stack: markdown + hand-written SVG; Python stdlib scripts
+- client: no
+- graph: no
+<!-- cto-cakis:end -->
